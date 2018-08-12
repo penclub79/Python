@@ -32,7 +32,7 @@
 - 예측하는 결과값이 continuous value(연속값)이면 #regression(회귀)문제
   * 3개월 뒤 이 아파트 가격은 2억 1천 만원 일 것인가? 2억 2천 만원 일 것인가?
 
-## 2. 회귀분석(Regression)
+# 2. 회귀분석(Regression)
 
 ### 2.1 회귀분석 정의
 Contunuious한 연속적인 값을 찾는 것이다.
@@ -61,7 +61,7 @@ Contunuious한 연속적인 값을 찾는 것이다.
   즉, 프로그램은 이러한 정보들을 바탕으로 Input과 Output에 대한 관계를 유추하여 올바른 해답을 제시한다.
 #### 집의 크기(input)에 해당하는 적절한 집의 가격(output)을 찾는 것이 Regression이다.
 
-## 분류(Classification)
+# 3. 분류(Classification)
 ### 3.1 분류 정의
 Supervised learning의 일종으로, 기존에 존재하는 데이터와 category와의 관계를 learning하여 새로 관측된 데이터의 category를 판별하는 문제이다.
 * 스팸메일 예시
