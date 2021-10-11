@@ -7,7 +7,7 @@
 - Backpropagation(역전파) : 다중 퍼셉트론 학습에 사용되는 통계적 기법
 - Autoencoder(오토인코더) : Unsupervised Learning을 위한 Neural Network 구조 중 하나로, Hidden Layer에 Input 데이터를 압축적으로
                            저장함으로써 원본 데이터의 특징(Feature)을 효과적으로 추출할 수 있는 기법
-
+ 
 ## 2. Transfer Learning
 ### 2.1 정의
 - 기존의 만들어진 모델을 사용하여 새로운 모델을 만들때 학습을 빠르게 하며, 예측을 더 높이는 방법
